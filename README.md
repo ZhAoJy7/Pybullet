@@ -8,7 +8,7 @@
 ## Steps:
 1. In order to run these scipts, please firstly git clone bullet3 repository:
 ```
-git clone https://github.com/bulletphysics/bullet3
+git clone https://github.com/ZhAoJy7/Pybullet
 ```
 2. Install pybullet package:
 ```
@@ -16,5 +16,3 @@ pip install pybullet
 ```
 3. Download all files of this repository, and put them all under */bullet3/examples/pybullet/examples/*
 
-## Demo video:
-https://drive.google.com/file/d/1eJQeoz_thZ34yjBygyW0DStb73FIE313
